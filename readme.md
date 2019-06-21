@@ -8,7 +8,7 @@
 * send offer to doctor
 * hire doctor in a clinic
 * show some statistics for each clinic
-* customize  smptoms, diagnosis, disease and treatment tags for his clinic
+* customize  symptoms, diagnosis, disease and treatment tags for his clinic
 * send notifications and mails to doctors and nurses
 * and more..
 
@@ -18,7 +18,7 @@
 * browsing today's patients reservations
 * processing a patient session
 * check patient history report
-* write smptoms, diagnosis, disease and treatment during the patient session
+* write symptoms, diagnosis, disease and treatment during the patient session
 * and more..
 
 ### Nurse
@@ -37,6 +37,6 @@ App came with two languages (English and Arabic)
 * [Laravel-pdf](https://github.com/vsmoraes/pdf-laravel5.git) - Laravel Packege
 
 # Android Assistant
-* App have an android assistant that help doctor to write smptoms, diagnosis, disease and treatment with handwriting and manage patient's sessions easily
+* App have an android assistant that help doctor to write symptoms, diagnosis, disease and treatment with handwriting and manage patient's sessions easily
 
 
