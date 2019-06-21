@@ -32,8 +32,11 @@
 App came with two languages (English and Arabic)
 
 # Development
-[Laravel](https://laravel.com/docs/5.2) - PHP Framework
-[MySQL](https://www.mysql.com) - Relational Database - PhpMyAdmin
-[Laravel-pdf](https://github.com/vsmoraes/pdf-laravel5.git) - Laravel Packege
+* [Laravel](https://laravel.com/docs/5.2) - PHP Framework
+* [MySQL](https://www.mysql.com) - Relational Database - PhpMyAdmin
+* [Laravel-pdf](https://github.com/vsmoraes/pdf-laravel5.git) - Laravel Packege
+
+# Android Assistant
+* App have an android assistant that help doctor to write smptoms, diagnosis, disease and treatment with handwriting and manage patient's sessions easily
 
 
