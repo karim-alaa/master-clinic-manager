@@ -43,7 +43,7 @@ App came with two languages (English and Arabic)
 
 # Installation
 * Open CMD in the root folder and perform 'composer install' and 'composer update' commands
-* Create a SQL database in your localhost and change db config in .nev file
+* Create a SQL database in your localhost, import the SQL file from folder 'Database MySql - To Import' and change db config in .nev file if needed
 * Perform 'php artisan serve'
 
 # Android Assistant
